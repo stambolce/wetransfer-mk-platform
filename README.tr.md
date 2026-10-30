@@ -1,12 +1,12 @@
 <div align="center">
 
-# WeTransfer.mk
-
-**İşinizi ileri taşıyın.**
+# WeTransfer
 
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="WeTransfer.mk — File sharing; kavramsal çizim" />
+<img src="assets/product-hero.svg" width="100%" alt="WeTransfer — ürün görsel sunumu" />
+
+**İşinizi ileri taşıyın.**
 
 [![Website](https://img.shields.io/badge/wetransfer.mk-Official_Website-1476e8?style=for-the-badge)](https://wetransfer.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://wetransfer.mk/)
@@ -69,7 +69,7 @@ Değer, dosya aktarımına odaklanan bir alan sunmasıdır. İyi teslimat doğru
 | Ayrıntı | Değer |
 |---|---|
 | Web sitesi | [wetransfer.mk](https://wetransfer.mk/) |
-| Kategori | File sharing |
+| Kategori | Dosya paylaşımı ve aktarımı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Sunum kaynakları: [1](https://wetransfer.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

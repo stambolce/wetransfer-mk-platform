@@ -1,12 +1,12 @@
 <div align="center">
 
-# WeTransfer.mk
-
-**Çojeni punën përpara.**
+# WeTransfer
 
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="WeTransfer.mk — File sharing; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="WeTransfer — prezantim vizual i produktit" />
+
+**Çojeni punën përpara.**
 
 [![Website](https://img.shields.io/badge/wetransfer.mk-Official_Website-1476e8?style=for-the-badge)](https://wetransfer.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://wetransfer.mk/)
@@ -69,7 +69,7 @@ Vlera është një vend i fokusuar për transferimin e skedarëve. Dorëzimi i m
 | Hollësia | Vlera |
 |---|---|
 | Faqja | [wetransfer.mk](https://wetransfer.mk/) |
-| Kategoria | File sharing |
+| Kategoria | Ndarje dhe transferim skedarësh |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimet e prezantimit: [1](https://wetransfer.mk/).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
